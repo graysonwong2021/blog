@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Summary of building a blog</title>
+    <url>/blog/post02%20/</url>
+    <content><![CDATA[<p>I’m going to update this content before 2024&#x2F;03&#x2F;18.(<em>Can’t be update if it expires</em>)</p>
+<p>試下打下中文work5work zh-HK</p>
+<hr>
+<h2 id="Coming-Soon"><a href="#Coming-Soon" class="headerlink" title="Coming Soon"></a>Coming Soon</h2><hr>
+]]></content>
+      <tags>
+        <tag>progress</tag>
+        <tag>hexo</tag>
+        <tag>myblog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My First Post Success</title>
+    <url>/blog/post01%20/</url>
+    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
+<h2 id="I-give-up-and-forget-it"><a href="#I-give-up-and-forget-it" class="headerlink" title="I give up and forget it."></a><em>I give up and forget it.</em></h2><p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I<br>meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
+<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
+<p>The reason is what I try to finish those commitment by myself. </p>
+<blockquote>
+<p>Beginning and the end.</p>
+</blockquote>
+<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
+<p>THANKYOU</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/blog/hello-world%20/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
