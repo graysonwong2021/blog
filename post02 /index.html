@@ -29,7 +29,7 @@
 <meta property="og:image" content="https://graysonwong2021.github.io/blog/images/%E5%9B%9B%E5%B7%9D%E5%85%AC%E8%B7%AF.jpeg">
 <meta property="og:image" content="https://graysonwong2021.github.io/blog/images/AndrewChin.jpg">
 <meta property="article:published_time" content="2024-03-15T03:31:29.000Z">
-<meta property="article:modified_time" content="2024-03-18T07:47:01.010Z">
+<meta property="article:modified_time" content="2024-03-18T08:10:22.589Z">
 <meta property="article:author" content="Grayson Wong">
 <meta property="article:tag" content="progress">
 <meta property="article:tag" content="hexo">
@@ -240,7 +240,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新於</span>
-      <time title="修改時間：2024-03-18 15:47:01" itemprop="dateModified" datetime="2024-03-18T15:47:01+08:00">2024-03-18</time>
+      <time title="修改時間：2024-03-18 16:10:22" itemprop="dateModified" datetime="2024-03-18T16:10:22+08:00">2024-03-18</time>
     </span>
 
   
@@ -319,7 +319,7 @@
 <p>最後再輸入 hexo s，就看到Next主題已經套上。</p>
 <p><strong>c. 修改 NexT 主題</strong><br>發現有兩種方法，一種是直接修改theme folder𥚃的配置檔_config.yml。<br>另外一種是把theme folder𥚃的配置檔_config.yml複製至root folder（最外層資料來）上，並把其重新命名為_config.next.yml，再進行修改，原因是以防後續更新版本導致衝突。</p>
 <p>修改裡面的 Scheme Settings，把想要的取消註解，其他全部註解掉（像我就是使用 Mist）。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Site：</span><br><span class="line">－title 網站的名字</span><br><span class="line">－subtitle 副標，可以留空不會</span><br><span class="line">－keyword 網站的關鍵字</span><br><span class="line">－author 作者的名字，作者的資訊都會直接從這裡拿</span><br><span class="line">－language 網站的語言（繁體中文 zh-TW，簡體中文 zh-CN，香港 zh-HK，英文 en）</span><br><span class="line">－timezone 時區 （留空）</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">Site：</span><br><span class="line">－title 網站的標題</span><br><span class="line">－subtitle 副標，可以留空</span><br><span class="line">－description 網站描述</span><br><span class="line">－keyword 網站的關鍵字，支援多個關鍵詞</span><br><span class="line">－author 作者的名字，作者的資訊都會直接從這裡取</span><br><span class="line">－language 網站的語言（繁體中文 zh-TW，簡體中文 zh-CN，香港 zh-HK，英文 en）</span><br><span class="line">－timezone 網站時區（可留空）Hexo 預設使用您電腦的時區，您可以在 時區列表 尋找適當的時區，例如 America/New_York 、 Japan 與 UTC</span><br></pre></td></tr></table></figure>
 
 <p>URL：<br>－url 填自己的網域，有自己的網域的話就填自己的，沒有的話可以填 github page 的網址</p>
 <h4 id="03-發佈上線"><a href="#03-發佈上線" class="headerlink" title="03 發佈上線"></a>03 發佈上線</h4><p><strong>a. 首先到 github 新開一個 Repository</strong><br>然後取名叫做 username.github.io （username 是自己帳號的名字，如果要開更多網站的話可以取其他名字，但後面有地方要小改一點） 選 public，然後其他都不要打勾，建立專案repo</p>
@@ -343,6 +343,8 @@
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new title //會在source資料夾裡面產生一篇檔名叫做title的檔案，使用markdown語法編輯</span><br></pre></td></tr></table></figure>
 <p>寫完文章後，輸入下面三行魔法，就可以讓你新的文章出現在網站上：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo cl //clean 刪掉之前的內容，不刪有時候也可以，但有可能會報錯</span><br><span class="line">hexo g  //generate 建立網站</span><br><span class="line">hexo d  //deploy 部署到github page</span><br></pre></td></tr></table></figure>
+<p>完成後佈署<br>您可執行下列的其中一個指令，讓 Hexo 在建立完畢後自動佈署網站，兩個指令的作用是相同的。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate --deploy</span><br><span class="line">$ hexo deploy --generate</span><br></pre></td></tr></table></figure>
 <p>另外，我跟隨的教學文有提到如果要傳到 github 上，每次都要 git commit -m “”、git push 實在太累了，可裝 vscode 的插件連到 Github，可以直接一鍵上傳（<em>有時間再研究</em>）</p>
 <p>以上。</p>
 <hr>
