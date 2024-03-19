@@ -134,4 +134,41 @@
         <tag>myblog</tag>
       </tags>
   </entry>
+  <entry>
+    <title>About html</title>
+    <url>/blog/html%20/</url>
+    <content><![CDATA[<h3 id="Basic-HTML"><a href="#Basic-HTML" class="headerlink" title="Basic HTML"></a>Basic HTML</h3><p>HTML is a markup tag language</p>
+<p>I mark down the layout of HTML files belows for review:</p>
+<!DOCTYPE html><p>  &#x2F;&#x2F;Files type claim</p>
+<html>
+<head>
+    <meata charset="utf-8">
+    <title>HTML5</title>
+</head>
+<body>
+    <main>
+        <section>
+        <h1>Big Title</h1>
+        <h2>subtitle</h2>
+        <p>bodytext to the interesting world</p>
+        </section>
+        <section>
+        <img src="url" alt="some describe about the photo">
+        <ul>
+            <li>one</li>
+            <li>two</li>
+            <li>three</li>
+        </ul>
+        </section>
+    </main>
+</body>
+</html>
+
+<p>I finished my firt html course free in free code camp today!</p>
+]]></content>
+      <tags>
+        <tag>html</tag>
+        <tag>self-learning</tag>
+      </tags>
+  </entry>
 </search>
