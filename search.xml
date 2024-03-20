@@ -19,30 +19,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>My First Post Success</title>
-    <url>/blog/post01%20/</url>
-    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
-<p><em>I give up and forget it.</em></p>
-<span id="more"></span>
-
-<p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
-<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
-<p>The reason is what I try to finish those commitment by myself. </p>
-<blockquote>
-<p>Beginning and the end.</p>
-</blockquote>
-<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
-<p>THANKYOU</p>
-]]></content>
-      <tags>
-        <tag>success</tag>
-        <tag>firstblog</tag>
-        <tag>ssg</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於這個網站的出現 | Summary of building a blog</title>
-    <url>/blog/post02%20/</url>
+    <url>/blog/post02-Summary%20/</url>
     <content><![CDATA[<h2 id="關於這個網站的出現"><a href="#關於這個網站的出現" class="headerlink" title="關於這個網站的出現"></a>關於這個網站的出現</h2><p>I’m going to update this content before 2024&#x2F;03&#x2F;18.(<del><em>Can’t be update if it expires</em></del>)<br><em>Updated on 2024-03-18</em></p>
 <h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>先說明一下，想要建立一個人部落格這個念想是從5年前（2019）已經存在，只不過當時卡在發佈上網的階段，而以自己當時的悟性無法獨立解決，按照網路上的教學文也總有一些地方出現報錯，結果我就默默的把這件事情放在一角冷卻了。</p>
 <p>這個網站是用靜態網頁產生器SSG：Hexo ＋ Hexo Theme：NexT ＋ GitHub Page 所搭建出來的，因為是開源代碼，費用全免，還有各種add-on，非常值得一試。</p>
@@ -136,7 +114,7 @@
   </entry>
   <entry>
     <title>About html</title>
-    <url>/blog/html%20/</url>
+    <url>/blog/post03-html%20/</url>
     <content><![CDATA[<h3 id="Basic-HTML"><a href="#Basic-HTML" class="headerlink" title="Basic HTML"></a>Basic HTML</h3><p>HTML is a markup tag language</p>
 <p>I mark down the layout of HTML files belows for review:</p>
 <!DOCTYPE html><p>  &#x2F;&#x2F;Files type claim</p>
@@ -164,11 +142,35 @@
 </body>
 </html>
 
-<p>I finished my firt html course free in free code camp today!</p>
+<p>I finished my firt html course free in free code camp today!<br><img src="/blog/images/HTML_freecodecamp.png" alt="HTML_freecodecamp"><br><strong>Reflection:</strong><br>It’s really retouching to restore my old willing for learning web.</p>
 ]]></content>
       <tags>
         <tag>html</tag>
         <tag>self-learning</tag>
+        <tag>freecodecamp</tag>
+        <tag>frontend</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My First Post Success</title>
+    <url>/blog/post01-first_post%20/</url>
+    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
+<p><em>I give up and forget it.</em></p>
+<span id="more"></span>
+
+<p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
+<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
+<p>The reason is what I try to finish those commitment by myself. </p>
+<blockquote>
+<p>Beginning and the end.</p>
+</blockquote>
+<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
+<p>THANKYOU</p>
+]]></content>
+      <tags>
+        <tag>success</tag>
+        <tag>firstblog</tag>
+        <tag>ssg</tag>
       </tags>
   </entry>
 </search>
