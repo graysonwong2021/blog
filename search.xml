@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>About html</title>
+    <url>/blog/post03-html%20/</url>
+    <content><![CDATA[<h3 id="Basic-HTML"><a href="#Basic-HTML" class="headerlink" title="Basic HTML"></a>Basic HTML</h3><p>HTML is a markup tag language</p>
+<p>I mark down the layout of HTML files belows for review:</p>
+<span id="more"></span>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;  //Files type claim</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">	&lt;meata charset=&quot;utf-8&quot;&gt;</span><br><span class="line">	&lt;title&gt;HTML5&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">	&lt;main&gt;</span><br><span class="line">		&lt;section&gt;</span><br><span class="line">		&lt;h1&gt;Big Title&lt;/h1&gt;</span><br><span class="line">		&lt;h2&gt;subtitle&lt;/h2&gt;</span><br><span class="line">		&lt;p&gt;bodytext to the interesting world&lt;/p&gt;</span><br><span class="line">		&lt;/section&gt;</span><br><span class="line">		&lt;section&gt;</span><br><span class="line">		&lt;img src=&quot;url&quot; alt=&quot;some describe about the photo&quot;&gt;</span><br><span class="line">		&lt;ul&gt;</span><br><span class="line">			&lt;li&gt;one&lt;/li&gt;</span><br><span class="line">			&lt;li&gt;two&lt;/li&gt;</span><br><span class="line">			&lt;li&gt;three&lt;/li&gt;</span><br><span class="line">		&lt;/ul&gt;</span><br><span class="line">		&lt;/section&gt;</span><br><span class="line">	&lt;/main&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
+<p>I finished my firt html course free in free code camp today!<br><img src="/blog/images/HTML_freecodecamp.png" alt="HTML_freecodecamp"><br><strong>Reflection:</strong><br>It’s really retouching to restore my old willing for learning web.</p>
+]]></content>
+      <tags>
+        <tag>html</tag>
+        <tag>self-learning</tag>
+        <tag>freecodecamp</tag>
+        <tag>frontend</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/blog/hello-world%20/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,6 +33,28 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>My First Post Success</title>
+    <url>/blog/post01-first_post%20/</url>
+    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
+<p><em>I give up and forget it.</em></p>
+<span id="more"></span>
+
+<p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
+<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
+<p>The reason is what I try to finish those commitment by myself. </p>
+<blockquote>
+<p>Beginning and the end.</p>
+</blockquote>
+<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
+<p>THANKYOU</p>
+]]></content>
+      <tags>
+        <tag>success</tag>
+        <tag>firstblog</tag>
+        <tag>ssg</tag>
+      </tags>
   </entry>
   <entry>
     <title>關於這個網站的出現 | Summary of building a blog</title>
@@ -110,67 +148,6 @@
         <tag>progress</tag>
         <tag>hexo</tag>
         <tag>myblog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>About html</title>
-    <url>/blog/post03-html%20/</url>
-    <content><![CDATA[<h3 id="Basic-HTML"><a href="#Basic-HTML" class="headerlink" title="Basic HTML"></a>Basic HTML</h3><p>HTML is a markup tag language</p>
-<p>I mark down the layout of HTML files belows for review:</p>
-<!DOCTYPE html><p>  &#x2F;&#x2F;Files type claim</p>
-<html>
-<head>
-    <meata charset="utf-8">
-    <title>HTML5</title>
-</head>
-<body>
-    <main>
-        <section>
-        <h1>Big Title</h1>
-        <h2>subtitle</h2>
-        <p>bodytext to the interesting world</p>
-        </section>
-        <section>
-        <img src="url" alt="some describe about the photo">
-        <ul>
-            <li>one</li>
-            <li>two</li>
-            <li>three</li>
-        </ul>
-        </section>
-    </main>
-</body>
-</html>
-
-<p>I finished my firt html course free in free code camp today!<br><img src="/blog/images/HTML_freecodecamp.png" alt="HTML_freecodecamp"><br><strong>Reflection:</strong><br>It’s really retouching to restore my old willing for learning web.</p>
-]]></content>
-      <tags>
-        <tag>html</tag>
-        <tag>self-learning</tag>
-        <tag>freecodecamp</tag>
-        <tag>frontend</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My First Post Success</title>
-    <url>/blog/post01-first_post%20/</url>
-    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
-<p><em>I give up and forget it.</em></p>
-<span id="more"></span>
-
-<p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
-<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
-<p>The reason is what I try to finish those commitment by myself. </p>
-<blockquote>
-<p>Beginning and the end.</p>
-</blockquote>
-<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
-<p>THANKYOU</p>
-]]></content>
-      <tags>
-        <tag>success</tag>
-        <tag>firstblog</tag>
-        <tag>ssg</tag>
       </tags>
   </entry>
 </search>
