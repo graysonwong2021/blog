@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About html</title>
-    <url>/blog/post03-html%20/</url>
-    <content><![CDATA[<h3 id="Basic-HTML"><a href="#Basic-HTML" class="headerlink" title="Basic HTML"></a>Basic HTML</h3><p>HTML is a markup tag language</p>
-<p>I mark down the layout of HTML files belows for review:</p>
-<span id="more"></span>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;  //Files type claim</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">	&lt;meata charset=&quot;utf-8&quot;&gt;</span><br><span class="line">	&lt;title&gt;HTML5&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">	&lt;main&gt;</span><br><span class="line">		&lt;section&gt;</span><br><span class="line">		&lt;h1&gt;Big Title&lt;/h1&gt;</span><br><span class="line">		&lt;h2&gt;subtitle&lt;/h2&gt;</span><br><span class="line">		&lt;p&gt;bodytext to the interesting world&lt;/p&gt;</span><br><span class="line">		&lt;/section&gt;</span><br><span class="line">		&lt;section&gt;</span><br><span class="line">		&lt;img src=&quot;url&quot; alt=&quot;some describe about the photo&quot;&gt;</span><br><span class="line">		&lt;ul&gt;</span><br><span class="line">			&lt;li&gt;one&lt;/li&gt;</span><br><span class="line">			&lt;li&gt;two&lt;/li&gt;</span><br><span class="line">			&lt;li&gt;three&lt;/li&gt;</span><br><span class="line">		&lt;/ul&gt;</span><br><span class="line">		&lt;/section&gt;</span><br><span class="line">	&lt;/main&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
-<p>I finished my firt html course free in free code camp today!<br><img src="/blog/images/HTML_freecodecamp.png" alt="HTML_freecodecamp"><br><strong>Reflection:</strong><br>It’s really retouching to restore my old willing for learning web.</p>
-]]></content>
-      <tags>
-        <tag>html</tag>
-        <tag>self-learning</tag>
-        <tag>freecodecamp</tag>
-        <tag>frontend</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/blog/hello-world%20/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -33,28 +17,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>My First Post Success</title>
-    <url>/blog/post01-first_post%20/</url>
-    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
-<p><em>I give up and forget it.</em></p>
-<span id="more"></span>
-
-<p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
-<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
-<p>The reason is what I try to finish those commitment by myself. </p>
-<blockquote>
-<p>Beginning and the end.</p>
-</blockquote>
-<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
-<p>THANKYOU</p>
-]]></content>
-      <tags>
-        <tag>success</tag>
-        <tag>firstblog</tag>
-        <tag>ssg</tag>
-      </tags>
   </entry>
   <entry>
     <title>關於這個網站的出現 | Summary of building a blog</title>
@@ -148,6 +110,53 @@
         <tag>progress</tag>
         <tag>hexo</tag>
         <tag>myblog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My First Post Success</title>
+    <url>/blog/post01-first_post%20/</url>
+    <content><![CDATA[<h2 id="After-around-20hrs-I-push-my-hexo-page-online-success"><a href="#After-around-20hrs-I-push-my-hexo-page-online-success" class="headerlink" title="After around 20hrs+ I push my hexo page online success"></a>After around 20hrs+ I push my hexo page online success</h2><p>At 2019 I try to deploy my personal blog on github page with hexo SSG. I put around 10hrs+ to learn about it. I fail to push my local files online.</p>
+<p><em>I give up and forget it.</em></p>
+<span id="more"></span>
+
+<p>In this time, I encourted the same sitution like 5 years ago, but we have ChatGpt now. I copy the error msg to chatgpt when I fail. But it doesn’t work for me. Because I don’t really understand the git concept and contrl command.I try to deploy again and again that drive me crazy and angry. I feel some frustrated but I keep going.<br>But the advantage I understand how github operate more and feel inteserting.<br>Trying to find some relate tutorial artical. Finally I meet <a href="https://moon-jam.me/Hexo-NexT_Github-Page_build-blog/"> Moon Jam’s Blog </a>, I try to follow it step by step and mark down the error msg then try to figure out what is it (this might call “deBug”).</p>
+<p>5 years ago at 2024, <strong>I did it</strong> eventually. And I’m here to begin my life recording.</p>
+<p>The reason is what I try to finish those commitment by myself. </p>
+<blockquote>
+<p>Beginning and the end.</p>
+</blockquote>
+<p>In this try &amp; error road, I feel frustrated disappointed. But I trust this is a progress, I try to accept the progress and believe it (It’s very important). The driving force is what I want. NOT what I “should” suppose to.<br>So I try to using my broken english to record this true feeling in my life. And I love to keep going on this interesting road. </p>
+<p>THANKYOU</p>
+]]></content>
+      <tags>
+        <tag>success</tag>
+        <tag>firstblog</tag>
+        <tag>ssg</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About html</title>
+    <url>/blog/post03-html%20/</url>
+    <content><![CDATA[<h3 id="Basic-HTML"><a href="#Basic-HTML" class="headerlink" title="Basic HTML"></a>Basic HTML</h3><p>HTML is a markup tag language</p>
+<h2 id="I-mark-down-the-layout-of-HTML-files-belows-for-review-I-finished-my-firt-html-course-free-in-free-code-camp-today-Reflection-It’s-really-retouching-to-restore-my-old-willing-for-learning-web"><a href="#I-mark-down-the-layout-of-HTML-files-belows-for-review-I-finished-my-firt-html-course-free-in-free-code-camp-today-Reflection-It’s-really-retouching-to-restore-my-old-willing-for-learning-web" class="headerlink" title="I mark down the layout of HTML files belows for review:I finished my firt html course free in free code camp today!Reflection:It’s really retouching to restore my old willing for learning web."></a>I mark down the layout of HTML files belows for review:<br><span id="more"></span><br><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;  //Files type claim</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">	&lt;meata charset=&quot;utf-8&quot;&gt;</span><br><span class="line">	&lt;title&gt;HTML5&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">	&lt;main&gt;</span><br><span class="line">		&lt;section&gt;</span><br><span class="line">		&lt;h1&gt;Big Title&lt;/h1&gt;</span><br><span class="line">		&lt;h2&gt;subtitle&lt;/h2&gt;</span><br><span class="line">		&lt;p&gt;bodytext to the interesting world&lt;/p&gt;</span><br><span class="line">		&lt;/section&gt;</span><br><span class="line">		&lt;section&gt;</span><br><span class="line">		&lt;img src=&quot;url&quot; alt=&quot;some describe about the photo&quot;&gt;</span><br><span class="line">		&lt;ul&gt;</span><br><span class="line">			&lt;li&gt;one&lt;/li&gt;</span><br><span class="line">			&lt;li&gt;two&lt;/li&gt;</span><br><span class="line">			&lt;li&gt;three&lt;/li&gt;</span><br><span class="line">		&lt;/ul&gt;</span><br><span class="line">		&lt;/section&gt;</span><br><span class="line">	&lt;/main&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure><br>I finished my firt html course free in free code camp today!<br><img src="/blog/images/HTML_freecodecamp.png" alt="HTML_freecodecamp"><br><strong>Reflection:</strong><br>It’s really retouching to restore my old willing for learning web.</h2><h5 id="2024-03-21"><a href="#2024-03-21" class="headerlink" title="2024&#x2F;03&#x2F;21"></a>2024&#x2F;03&#x2F;21</h5><p>I finished my firt css course free in free code camp today!<br><img src="/blog/images/CSS_freecodecamp.png" alt="CSS_freecodecamp"></p>
+]]></content>
+      <tags>
+        <tag>html</tag>
+        <tag>self-learning</tag>
+        <tag>freecodecamp</tag>
+        <tag>frontend</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小島經濟學</title>
+    <url>/blog/post04-bookreading01%20/</url>
+    <content><![CDATA[<h3 id="小島經濟學"><a href="#小島經濟學" class="headerlink" title="小島經濟學"></a>小島經濟學</h3><h4 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h4><p>由一個奧地利經濟學派的支持者艾爾文的後代（兩兄弟）所寫，是兩兄弟把爸爸教授經濟概念的故事結合時代重編成書。目前看到的版本像是2013年。</p>
+<h4 id="本書記憶點"><a href="#本書記憶點" class="headerlink" title="本書記憶點"></a>本書記憶點</h4><p>在凱因斯的時代，物理學界出現量子力學的概念：認為宇宙世界受著兩套截然不同的運行規律所制約，一套是作用在微觀世界：如質子和電子；而另一套是在宏觀世界上作用（泛指一般物質，非微觀物質）。於是凱恩斯把這個視角放到經濟學上應用，提出了兩大尸一戈土經濟體運行規律：微觀經濟學及宏觀經濟學。</p>
+<p>適逢凱因斯所處的年代是19世紀至20世紀，世界上的生產及生活都是最頂盛，當時的經濟繁榮中心是美實行自由資本主義的美國，自由資本主義獨特之處在於：它維護個體權利及限制政府權力。本質上是分散權力，與歷史的君權制（中央集權）是二元對方的。對傳統的權力結構產生了威脅。同時，自由資本主義亦放大了貧富懸殊的現象，導致社會主義出現。</p>
+<h5 id=""><a href="#" class="headerlink" title=""></a></h5>]]></content>
+      <tags>
+        <tag>讀書心得</tag>
+        <tag>小島經濟學</tag>
       </tags>
   </entry>
 </search>
